@@ -4,52 +4,54 @@
 
 This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
 
-## To use
+# Material de apoio utilizado para estudar o framework React.
 
-There are several simple server implementations included. They all serve static files from `public/` and handle requests to `/api/comments` to fetch or add data. Start a server with one of the following:
+<!--## To use-->
 
-### Node
+<!--There are several simple server implementations included. They all serve static files from `public/` and handle requests to `/api/comments` to fetch or add data. Start a server with one of the following:-->
 
-```sh
-npm install
-node server.js
-```
+<!--### Node-->
 
-### Python
+<!--```sh-->
+<!--npm install-->
+<!--node server.js-->
+<!--```-->
 
-```sh
-pip install -r requirements.txt
-python server.py
-```
+<!--### Python-->
 
-### Ruby
-```sh
-ruby server.rb
-```
+<!--```sh-->
+<!--pip install -r requirements.txt-->
+<!--python server.py-->
+<!--```-->
 
-### PHP
-```sh
-php server.php
-```
+<!--### Ruby-->
+<!--```sh-->
+<!--ruby server.rb-->
+<!--```-->
 
-### Go
-```sh
-go run server.go
-```
+<!--### PHP-->
+<!--```sh-->
+<!--php server.php-->
+<!--```-->
 
-### Perl
+<!--### Go-->
+<!--```sh-->
+<!--go run server.go-->
+<!--```-->
 
-```sh
-cpan Mojolicious
-perl server.pl
-```
+<!--### Perl-->
 
-And visit <http://localhost:3000/>. Try opening multiple tabs!
+<!--```sh-->
+<!--cpan Mojolicious-->
+<!--perl server.pl-->
+<!--```-->
 
-## Changing the port
+<!--And visit <http://localhost:3000/>. Try opening multiple tabs!-->
 
-You can change the port number by setting the `$PORT` environment variable before invoking any of the scripts above, e.g.,
+<!--## Changing the port-->
 
-```sh
-PORT=3001 node server.js
-```
+<!--You can change the port number by setting the `$PORT` environment variable before invoking any of the scripts above, e.g.,-->
+
+<!--```sh-->
+<!--PORT=3001 node server.js-->
+<!--```-->
