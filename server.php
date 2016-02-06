@@ -16,7 +16,7 @@ $scriptInvokedFromCli =
 if($scriptInvokedFromCli) {
     $port = getenv('PORT');
     if (empty($port)) {
-        $port = "3000";
+        $port = "8080";
     }
 
     echo 'starting server on port '. $port . PHP_EOL;
@@ -24,7 +24,7 @@ if($scriptInvokedFromCli) {
 } else {
     return routeRequest();
 }
-
+node 
 function routeRequest()
 {
     $comments = file_get_contents('comments.json');
