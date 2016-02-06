@@ -1,10 +1,12 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+<!--[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)-->
 
-# React Tutorial
+<!--# React Tutorial-->
 
-This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
+<!--This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).-->
 
-# Material de apoio utilizado para estudar o framework React.
+# Estudando ReactJS
+
+Material de apoio, com base no tutorial disponível na documentação oficial do React.
 
 <!--## To use-->
 
